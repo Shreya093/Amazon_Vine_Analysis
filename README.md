@@ -30,7 +30,7 @@ Below is the database "amazondb" created in the AWS RDS.
 
 The data after being transformed was loaded into the PgAdmin into 4 tables into your database: customers_table, products_table, review_id_table, and vine_table.
 
-<img width="717" alt="query" src="https://user-images.githubusercontent.com/88418201/145655699-ea17b592-d60d-412b-9a46-63f8335ad65b.png">
+<img width="400" alt="query" src="https://user-images.githubusercontent.com/88418201/145655699-ea17b592-d60d-412b-9a46-63f8335ad65b.png">
 
 **1. How many Vine reviews and non-Vine reviews were there?**
 
@@ -38,7 +38,7 @@ The dataset contains 145,431 reviews. Only reviews with 20 or more votes where c
 
 Unfortunately, due to the applied criteria, it significantly diminished the sample size. There were no reviews that were paid for the Vine program and there were 1,685 non-Vine reviews.
 
-<img width="1317" alt="1-1" src="https://user-images.githubusercontent.com/88418201/145656285-30490cc8-316f-4b69-a6c7-3342656a2d39.png">
+<img width="1400" alt="1-1" src="https://user-images.githubusercontent.com/88418201/145656285-30490cc8-316f-4b69-a6c7-3342656a2d39.png">
 
 <img width="372" alt="1-2" src="https://user-images.githubusercontent.com/88418201/145656288-f72674d8-226e-4267-bdbe-76a555fc05a5.png">
 
